@@ -9,7 +9,7 @@ header {
 }
 /* Make the header and footer a different color from the background */
 footer {
-    background-color: antiquewhite;
+    background-color: aquamarine;
 }
 /* Align the h1 containing your name in the center of the header*/
 h1 {
